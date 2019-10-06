@@ -1,4 +1,4 @@
-| [Home](index.md) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](#) | [About Me](about-me.md) |
+| [Home](index.md) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](#) | [CTF Walkthroughs](ctf-walkthroughs.md) | [About Me](about-me.md) | 
 
 # Conference Write-Ups
 I'm a keen conference goer and will document my experience of them here.
