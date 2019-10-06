@@ -1,3 +1,5 @@
+| [Home](index.md) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](#) | [About Me](about-me.md) |
+
 # Conference Write-Ups
 I'm a keen conference goer and will document my experience of them here.
 Opinions in this write-ups are my own and I've to convey the detail of the talks the best I could but be aware there could be some inaccuries featured.
