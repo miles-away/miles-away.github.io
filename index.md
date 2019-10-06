@@ -7,3 +7,4 @@ Contents will most likely be blog posts on various topics, conference write-ups 
 - [Blog Posts](miles-away.github.io/_pages/blog-posts)
 - [Conference Write-Ups](miles-away.github.io/_pages/conference-write-ups)
 - [CTF Walkthroughs](miles-away.github.io/_pages/ctf-walkthroughs)
+- [About Me](miles-away.github.io/_pages/about-me)
