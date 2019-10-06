@@ -1,4 +1,4 @@
-# Walkthroughs will feature under here
+# CTF Walkthroughs
 There will one day hopefully be a collection of walkthroughs featured here.
 
 ## Showcase
@@ -6,6 +6,6 @@ There will one day hopefully be a collection of walkthroughs featured here.
 Coming soon.
 
 ## More walkthroughs
-- list
-- of
-- walkthroughs
+- old
+- walkthroughs will
+- feature here
