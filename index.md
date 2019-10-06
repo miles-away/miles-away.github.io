@@ -6,5 +6,5 @@ Contents will most likely be blog posts on various topics, conference write-ups 
 # Pages (so far):
 - [Blog Posts](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/blog-posts.md)
 - [Conference Write-Ups](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/conference-write-ups.md)
-- [CTF Walkthroughs](mhttps://github.com/miles-away/miles-away.github.io/tree/master/_pages/ctf-walkthroughs.md)
+- [CTF Walkthroughs](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/ctf-walkthroughs.md)
 - [About Me](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/about-me.md)
