@@ -1,7 +1,4 @@
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| [Home](#) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](conference-write-ups.md) | [About Me](about-me.md) |
 
 # Hello World!
 Big cliche I know but all I could think of to start with.  
