@@ -7,8 +7,10 @@ Open to any constructive comments.
 Featured/most recent conferences will be included in the showcase.
 
 ### Coming Soon: BSidesMCR 2019
+My report from the BSidesMCR conference will feature here soon.
 
 ### Coming Soon: BSides Liverpool 2019
+My report from the BSides Liverpool conference will feature here soon.
 
 ## Past Write-Ups
 - Archived
