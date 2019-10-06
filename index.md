@@ -4,7 +4,7 @@ Anyway, welcome to my blog where I'll be attempting to share my experience (or i
 Contents will most likely be blog posts on various topics, conference write-ups some Capture the Flag walkthroughs - well at least for now.
 
 # Pages (so far):
-- [Blog Posts](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/blog-posts.md)
-- [Conference Write-Ups](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/conference-write-ups.md)
-- [CTF Walkthroughs](https://github.com/miles-away/miles-away.github.io/tree/master/_pages/ctf-walkthroughs.md)
-- [About Me](about-me.md)
+- [Blog Posts](_pages/blog-posts.md)
+- [Conference Write-Ups](_pages/conference-write-ups.md)
+- [CTF Walkthroughs](_pages/ctf-walkthroughs.md)
+- [About Me](_pages/about-me.md)
