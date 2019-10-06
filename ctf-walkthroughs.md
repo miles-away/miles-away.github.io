@@ -1,4 +1,4 @@
-| [Home](index.md) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](conference-write-ups.md) | [About Me](#) | [CTF Walkthroughs](#) |
+| [Home](index.md) | [Blog Posts](blog-posts.md) | [Conference Write-Ups](conference-write-ups.md) | [CTF Walkthroughs](#) | [About Me](about-me.md) | 
 
 # CTF Walkthroughs
 There will one day hopefully be a collection of walkthroughs featured here.
