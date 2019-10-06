@@ -1,4 +1,9 @@
 theme: jekyll-theme-hacker
 title: Miles Away
-fold_newlines: >
-            test
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Miles__Eastwood"
