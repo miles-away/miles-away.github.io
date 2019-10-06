@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: Miles Away
+fold_newlines: >
+            [home](index.md)
