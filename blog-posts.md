@@ -1,4 +1,4 @@
-| [Home](index.md) | [Blog Posts](#) | [Conference Write-Ups](conference-write-ups.md) | [About Me](about-me.md) |
+| [Home](index.md) | [Blog Posts](#) | [Conference Write-Ups](conference-write-ups.md) | [CTF Walkthroughs](ctf-walkthroughs.md) | [About Me](about-me.md) | 
 
 # Blog Posts
 I'll be doing small write ups on different infosec topics and potentially running some commentary.
