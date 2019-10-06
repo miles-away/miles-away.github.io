@@ -3,7 +3,7 @@ There will one day hopefully be a collection of walkthroughs featured here.
 
 ## Showcase
 ### Mr Robot (VulnHub)
-Abstract.
+Coming soon.
 
 ## More walkthroughs
 - list
